@@ -8,7 +8,7 @@
 
 - [Installation of Requests](installation-of-requests.md)
 
-- [Quickstart](quickstart.md)
+- [Quickstart](quickstart)
 
 - Advanced Usage
 
